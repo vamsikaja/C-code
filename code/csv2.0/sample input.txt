@@ -1,0 +1,7 @@
+ram,222,EEE,GITAM
+sam,555,CSE,IITM
+krishna,888,CHEM,GVPCE,management
+sitha,333,ECE,IIITH
+
+
+
